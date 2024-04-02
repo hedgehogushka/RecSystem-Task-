@@ -1,2 +1,2 @@
 # RecSystem-Task-
-решение находится в файле vk_recSys.ipynb
+решение находится в файле vk_recSystem.ipynb
